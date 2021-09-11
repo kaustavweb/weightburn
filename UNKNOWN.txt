@@ -1,0 +1,16 @@
+<!-- slider-area -->
+            <section id="home" class="slider-area slider-bg d-flex align-items-center">
+                <div class="container">
+                    <div class="slider-overflow">
+                        <div class="row">
+                            <div class="col-lg-6 order-0 order-lg-2">
+                                <div class="slider-img text-center text-lg-right text-xl-center position-relative">
+                                    <img src="img/slider/slider_img.png" alt="img" class="wow fadeInRight" data-wow-delay="0.6s">
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- slider-area-end -->
